@@ -3,8 +3,7 @@
 
 VR Software Developer with an AI concentration and a B.A. in French — I build software that connects real-time systems to the people using them, from VR training tools to simulation research.
 
-Computer Science (AI concentration) + French, University of Nebraska Omaha — May 2026
-🇫🇷 Currently deepening my French at an intensive program at Université Laval, Quebec City
+Computer Science (AI concentration) + French Major, University of Nebraska Omaha — May 2026
 
 
 ## What I've finished building
